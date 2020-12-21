@@ -1,0 +1,25 @@
+Secret phrase `general walk flee special industry put orbit cool roof palace cloud release` is account:
+  Secret seed:      0x61458e8a427fba136366e676b0a41cf78343d29639aa499dda339813702e5674
+aura
+Public key (hex):   0x621eff387306cf44f6cda1c48b6d69df86f96fc9b411fa83a3664229b9e1341e
+  Account ID:       0x621eff387306cf44f6cda1c48b6d69df86f96fc9b411fa83a3664229b9e1341e
+  SS58 Address:     5EHMkumE8j75wYnDVBRNe2ceKkbf8F7urxWu8wGDonP9oBKa
+grandpa
+  Public key (hex): 0xad06321c10c9d1c150a8789f53ea90bb88c4fd55eca004b1ab4d8354ec915566
+  Account ID:       0xad06321c10c9d1c150a8789f53ea90bb88c4fd55eca004b1ab4d8354ec915566
+  SS58 Address:     5FyZytogq6FQ2U92a6VBjKNdVNxmN4SGmd24BbZ6VbQ1MvKV
+
+
+
+
+
+Secret phrase `convince script will month couch pyramid error travel arctic wide survey raccoon` is account:
+  Secret seed:      0xc06364483ea9238b718e18bf13e4e006f3e5720e21cd689438e65e0faf0ac115
+aura
+  Public key (hex): 0x20763ade9d36f87fe8fc033b774bb0d8bd09b20fa4dce92c98beee0ca2fd9f4b
+  Account ID:       0x20763ade9d36f87fe8fc033b774bb0d8bd09b20fa4dce92c98beee0ca2fd9f4b
+  SS58 Address:     5CoGWbcNUwHNP3qNDbTYRu1tC4Ha5HnFmksVnq934RoX1wGy
+grandpa  
+Public key (hex):   0x04ff6318f12b9e7701f59d0c637def7006499c1ad48fe737fd3567f88f0c31e0
+  Account ID:       0x04ff6318f12b9e7701f59d0c637def7006499c1ad48fe737fd3567f88f0c31e0
+  SS58 Address:     5CBFuzgPQH6Uc6sMxdLH2VHn9eBixjMJGGgHJp2amoXq8gPV
